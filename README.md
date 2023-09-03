@@ -1,9 +1,9 @@
 ### 💫About Me
 ## Hi there 👋
-##🔭 I’m currently working on Improving Skills as a developer.<br>
-##🌱 I’m currently learning Fullstack Web Development.<br>
-##👯 I’m looking to collaborate on Front-End Projects.<br>
-##💬 Ask me about HTML | CSS | JavaScript | React<br>
+🔭 I’m currently working on Improving Skills as a developer.<br>
+🌱 I’m currently learning Fullstack Web Development.<br>
+👯 I’m looking to collaborate on Front-End Projects.<br>
+💬 Ask me about HTML | CSS | JavaScript | React<br>
 <!--
 **Huzaifa-Jawed/Huzaifa-Jawed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
