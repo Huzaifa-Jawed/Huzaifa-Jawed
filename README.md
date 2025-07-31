@@ -49,7 +49,7 @@ Currently pursuing my **BS in Software Engineering (6th Semester)** at **CUST**,
 ## 📊 GitHub Stats
 ![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-Jawed&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Jawed&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa-Jawed&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifa-Jawed&theme=dark)
 
 ---
 
