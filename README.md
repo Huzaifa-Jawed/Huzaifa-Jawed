@@ -60,7 +60,7 @@ Currently pursuing my **BS in Software Engineering (6th Semester)** at **CUST**,
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Huzaifa-Jawed/Huzaifa-Jawed/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Huzaifa-Jawed/Huzaifa-Jawed/output/snake.svg)
 
 ---
 
