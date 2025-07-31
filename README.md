@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:20B2AA&height=200&section=header&text=Malik%20Huzaifa%20Jawed&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:20B2AA&height=250&section=header&text=Malik%20Huzaifa%20Jawed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I'm Malik Huzaifa Jawed
 
